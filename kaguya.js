@@ -210,7 +210,7 @@ const getCmd = (id) => {
         return scommand[position].chats
     }
 }
-module.exports = Bayuu = async (Bayuu, mek) => {
+module.exports = Bayuu = async (bayu, mek) => {
 try {
         if (!mek.hasNewMessage) return
         mek = mek.messages.all()[0]
@@ -286,7 +286,7 @@ try {
 				Badmin: 'Jadikan Bot Admin Dulu😏'
 			}
 		}
-		const botNumber = Bayuu.user.jid
+		const botNumber = Saleh.user.jid
 		const isGroup = from.endsWith('@g.us')
 		const sender = mek.key.fromMe ? Bayuu.user.jid : isGroup ? mek.participant : mek.key.remoteJid
 		const senderNumber = sender.split("@")[0] 
