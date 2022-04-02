@@ -62,8 +62,8 @@ const Math_js = require('mathjs')
 const crypto = require('crypto')
 const speed = require('performance-now')
 const client = new WAConnection()
-const dtod = "6281285866502@s.whatsapp.net"
-const otod = "6281285866502@s.whatsapp.net"
+const dtod = "6285822558496@s.whatsapp.net"
+const otod = "6285822558496@s.whatsapp.net"
 
     //── 「 Lib 」 ──//
 
