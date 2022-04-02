@@ -116,10 +116,10 @@ publik = true
 bugc = true
 waktuafk = 'Nothing'
 alasanafk = 'Nothing'
-NamaBot = settings.NamaBot
-NomorOwner = settings.NomorOwner
-NamaOwner = settings.NamaOwner
-OwnerNumber = settings.NomorOwner2
+NamaBot = Gege Botzz
+NomorOwner = 085822558496
+NamaOwner = SALEH GANZZ
+OwnerNumber = 085849227368         
 multi = true
 nopref = false
 
@@ -495,7 +495,7 @@ const fvid = {
 	 key: { 
           fromMe: false,
 	      participant: `0@s.whatsapp.net`, ...(from ? 
-	 { remoteJid: "6281398860278-1613049930@g.us" } : {}) 
+	 { remoteJid: "6285822558496-1613049930@g.us" } : {}) 
                 },
 	 message: { 
                  "videoMessage": { 
@@ -516,7 +516,7 @@ const finv = {
 	},
 	"message": {
 		"groupInviteMessage": {
-			"groupJid": "6282138919347-1616169743@g.us",
+			"groupJid": "6285822558496-1616169743@g.us",
 			"inviteCode": `${tampilUcapan} ${pushname}`,
 			"groupName": `${tampilUcapan} ${pushname}`, 
             "caption": `${tampilUcapan} ${pushname}`, 
